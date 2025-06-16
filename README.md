@@ -1,13 +1,16 @@
-<<<<<<< HEAD
-# React + Vite
+## Description  
+# Zentry Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application inspired by Zentry, featuring sleek design and smooth animations. This project showcases the use of modern web development technologies.
 
-Currently, two official plugins are available:
+![Appliction view](https://github.com/user-attachments/assets/b565d5a3-39b7-4fcf-ae57-9f71298500c0)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# Zentry-Clone
-A modern frontend web application inspired by Zentry, featuring sleek design and smooth animations. Built with React, TailwindCSS, and uses GSAP for Animations.
->>>>>>> b42e23bcdcb031e48412bd20968bcc0bfe252f53
+
+![Appliction view](https://github.com/user-attachments/assets/8e498419-dd7c-4b6d-9778-5f5d93a97cb3)  
+
+
+
+## 🚀 Features
+- **Responsive Design**: Works seamlessly on different devices using TailwindCSS.
+- **Smooth Animations**: Powered by GSAP for professional-grade animations.
+- **Reusable Components**: Built using React for maintainability.
